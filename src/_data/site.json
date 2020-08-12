@@ -1,0 +1,13 @@
+{
+  "showThemeCredit": true,
+  "name": "Música em deComposição",
+  "shortDesc": "Música dos micro-organismos transformando restos dos humanos.",
+  "url": "https://musica-em-decomposicao.ml",
+  "authorEmail": "gilfuser@gmail.com",
+  "authorHandle": "@gilfuser",
+  "authorName": "Gil Fuser",
+  "enableThirdPartyComments": true,
+  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
+}
